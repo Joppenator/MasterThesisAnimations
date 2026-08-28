@@ -1,8 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:D:/OneDrive/Documenten/Thesis/Python/media/videos/Presentatie_animaties/480p15/partial_movie_files/BipartiteToUndirected/2982471169_2929918885_223132457.mp4'
-file 'file:D:/OneDrive/Documenten/Thesis/Python/media/videos/Presentatie_animaties/480p15/partial_movie_files/BipartiteToUndirected/3094621855_2880931674_3160008385.mp4'
-file 'file:D:/OneDrive/Documenten/Thesis/Python/media/videos/Presentatie_animaties/480p15/partial_movie_files/BipartiteToUndirected/3094621855_572317093_3562863918.mp4'
-file 'file:D:/OneDrive/Documenten/Thesis/Python/media/videos/Presentatie_animaties/480p15/partial_movie_files/BipartiteToUndirected/3094621855_2186781363_2585511088.mp4'
-file 'file:D:/OneDrive/Documenten/Thesis/Python/media/videos/Presentatie_animaties/480p15/partial_movie_files/BipartiteToUndirected/3094621855_871481328_3130812518.mp4'
-file 'file:D:/OneDrive/Documenten/Thesis/Python/media/videos/Presentatie_animaties/480p15/partial_movie_files/BipartiteToUndirected/3094621855_3913781933_571840746.mp4'
-file 'file:D:/OneDrive/Documenten/Thesis/Python/media/videos/Presentatie_animaties/480p15/partial_movie_files/BipartiteToUndirected/3094621855_2613407950_336119657.mp4'
